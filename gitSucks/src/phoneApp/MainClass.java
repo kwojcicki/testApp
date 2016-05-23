@@ -1,4 +1,4 @@
-package gitSucks;
+package phoneApp;
 
 public class MainClass {
 
